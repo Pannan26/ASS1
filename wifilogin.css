@@ -1,0 +1,55 @@
+img{
+    border: 0px;
+    width: 268px;
+    height: 297px;
+}
+.one{
+    border: 0px;
+    width: 473px;
+    height: 111px;
+}
+.two{
+    color: #c1c1c1;
+    font-size: 9px;
+}
+.three{
+    font-size: 14px;
+    color: #7A7A7A;
+}
+.four{
+    font-size: 14px;
+    color: #808080;
+    border: 1px solid #BBBBBB; 
+    margin: 1px; 
+    padding: 2px; 
+    background-color: #FDFBFB"
+}
+.five{
+    width: 80px;
+    font-size: 14px;
+    color: #808080;
+    border: 1px solid #BBBBBB;
+    margin: 1px; 
+    padding: 2px;
+    background-color: #FDFBFB"
+}
+.six{
+    background-color: #ffffff;
+    width: 100px;
+}
+.notice{
+    color: #c1c1c1;
+    font-size: 9px;
+}
+.very{
+    height: 155px;
+    column-span: 2px;
+    font-size: 14px;
+    color: #7A7A7A;
+}
+.durr{
+    width: 373px;
+    height: 240px;
+    border: 1px solid #cccccc;
+    padding: 0px;
+}
